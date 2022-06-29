@@ -1,2 +1,2 @@
-Shell, I/O Redirections and filters
-Hello World >Write a script that prints “Hello, World”, followed by a new line to the standard output.
+# Shell, init files, variables and expansions 
+0. <o> >Create a script that creates an alias.
